@@ -1,4 +1,4 @@
-# 🌾 API de Cadastro de Agricultores
+#  API de Cadastro de Agricultores
 
 Uma API para gerenciamento de cadastro de agricultores, desenvolvida com **NestJS**, **MongoDB** e **Mongoose**, seguindo os princípios **SOLID** e arquitetura **MVC**.
 
