@@ -23,17 +23,17 @@ Uma API para gerenciamento de cadastro de agricultores, desenvolvida com **NestJ
 
 ## ✨ Características
 
-- ✅ **CRUD Completo** para agricultores
+- ✅ **CRUD para agricultores
 - ✅ **Validação de CPF** com algoritmo oficial brasileiro
 - ✅ **CPF único** no sistema
 - ✅ **Filtros avançados** (nome, CPF, status)
-- ✅ **Paginação** inteligente
-- ✅ **Ordenação** customizável
+- ✅ **Paginação**
+- ✅ **Ordenação** 
 - ✅ **Validação robusta** de dados
 - ✅ **Arquitetura limpa** seguindo SOLID
 - ✅ **Repository Pattern** para abstração de dados
-- ✅ **Error handling** personalizado
-- ✅ **Transformação de dados** automática
+- ✅ **Error handling** 
+- ✅ **Transformação de dados** 
 
 ## 🛠️ Tecnologias
 
@@ -63,11 +63,6 @@ cd agricultor-api
 npm install -g @nestjs/cli
 ```
 
-### 3. Instale as dependências
-```bash
-npm install
-```
-
 ### 4. Instale as dependências específicas do projeto
 ```bash
 # Dependências principais
@@ -79,6 +74,11 @@ npm install @nestjs/swagger swagger-ui-express
 
 # Dependências de desenvolvimento
 npm install --save-dev @types/mongoose
+```
+
+### 3. Instale as dependências
+```bash
+npm install
 ```
 
 ## ⚙️ Configuração
