@@ -74,6 +74,8 @@ npm install
 npm install @nestjs/mongoose mongoose
 npm install class-validator class-transformer
 npm install @nestjs/config
+npm install @nestjs/swagger swagger-ui-express
+
 
 # Dependências de desenvolvimento
 npm install --save-dev @types/mongoose
